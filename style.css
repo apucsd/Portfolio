@@ -138,3 +138,53 @@ nav ul{
     font-size: 0.9rem;
     margin-left: 10px;
 }
+
+
+/* summary section */
+.summary-section{
+    display: flex;
+    gap: 40px;
+    margin: 20px 200px;
+}
+
+.summary-section h2{
+    font-size: 18px;
+    color: #545353;
+}
+.summary-section h3{
+    font-size: 13px;
+    color: #757575;
+}
+.summary-section p{
+    font-size: 10px;
+    color: #757575;
+}
+.edu-summary-details{
+    margin: 30px;
+}
+.edu-summary h1{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.exp-summary h1{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 30px;
+}
+.summary-title{
+   text-align: center;
+   margin: 100px 200px;
+}
+
+
+hr{
+    width: 90%;
+    margin: 10px 20px;
+}
+.resume-btn{
+    text-align: center;
+    margin: 20px 0;
+}
+
+
