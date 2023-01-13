@@ -246,10 +246,14 @@ footer{
         gap: 10px;
         text-align: center;
     }
-
+    .header{
+        background-image:url(images/developer.png);
+        background-position: left bottom;
+    }
 
     .banner img{
         width: 100%;
+      margin: 10px 100px 0 0;
     }
 
 
@@ -286,9 +290,7 @@ nav li{
 .skill-section{
     width: 85%;
 }
-.hide{
-    display: none;
-}
+
 .btn{
     margin-left: 0;
 }
