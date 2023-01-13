@@ -251,7 +251,7 @@ footer{
     nav ul,.banner ,footer,nav,.info, .skill-section, .summary-section,.information{ 
         flex-direction: column;
     }
-    footer ,.summary-section,.summary-title, .skills {
+    footer ,.summary-title, .skills {
         padding: 0;
         margin: 5px;
         gap: 10px;
@@ -311,5 +311,11 @@ nav li{
 
 .btn{
     margin-left: 0;
+}
+
+
+.summary-title{
+    font-size: 20px;
+    margin: 10px;
 }
 }
